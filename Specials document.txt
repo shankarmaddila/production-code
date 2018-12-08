@@ -1,0 +1,12 @@
+Specials
+
+- Transfer Firebase to new owner
+- Document Azure Web Job
+- Document js? 
+
+
+Hospitality 
+- Transfer ownership of MongoDB
+- Transfer ownership of Azure
+- Migrate off of MongoDB?
+- Azure Search

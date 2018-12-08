@@ -1,0 +1,39 @@
+{
+  "name": "interface-specials-framework",
+  "description": "A carpet sales webapp for Interface.com",
+  "main": "",
+  "authors": [
+    "ross@peopledesign.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone-filtered-collection": "~0.4.0",
+    "backbonefire": "~0.5.1",
+    "dropzone": "~4.2.0",
+    "imagesloaded": "~3.1.8",
+    "foundation": "~5.5.3",
+    "slick-carousel": "~1.5.8",
+    "qurl": "~0.1.2",
+    "SpinKit": "~1.2.3",
+    "svg4everybody": "~1.0.0",
+    "underscore": "1.8.3",
+    "jquery": "2.1.1",
+    "store": "https://github.com/marcuswestin/store.js.git#master",
+    "underscore-query": "^3.3.2",
+    "jquery.cookie": "^1.4.1",
+    "select2": "4.0.1"
+  },
+  "resolutions": {
+    "underscore": "1.8.3"
+  }
+}
